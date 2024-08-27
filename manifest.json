@@ -1,0 +1,23 @@
+{
+    "name": "Natal Care",
+    "short_name": "N.Care",
+    "description": "Natal Care App is a comprehensive app designed to support young girls and women in managing their health and fertility. With features like a cycle calculator for tracking menstrual cycles, ovulation, and safe periods, and a symptom checker for evaluating health issues, our app provides valuable tools and information for better understanding and controlling your well-being.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+      
+    ]
+  }
+  
